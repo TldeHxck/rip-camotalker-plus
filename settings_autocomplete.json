@@ -1,0 +1,7 @@
+{
+	"cmds": [
+		{ "command": "usezerowidths", "description": "Place zero-width spaces in between every 2 characters." },
+		{ "command": "usecharobfuscation", "description": "Replace all charaacters with similar-looking ones." },
+		{ "command": "autocamokeywords", "description": "Automatically camouflage when a keyword is detected." }
+	]
+}
